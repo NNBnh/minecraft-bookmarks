@@ -1,22 +1,21 @@
 # Minecraft
 
 ## 🖼️ Resource-packs
-### 👨‍🎨 Resource-pack Creators
+### 👨‍🎨 Resource-pack creators
 - [**Vanilla Tweaks**](https://vanillatweaks.net): Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. [Vanilla Tweaks resource packs](https://vanillatweaks.net/picker/resource-packs) can alter textures, sounds and models
-- [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): `#TODO` [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed)
-- [**Ewan Howell**](https://www.ewanhowell.com): `#TODO`
+- [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs
+- [**Ewan Howell**](https://www.ewanhowell.com): they make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best)
 
 ### 🎨 Specific resource-packs
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) by [Mizuno](https://mizunomcmemo.blogspot.com): a 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items
-- [**Ghoulcraft**](https://www.ghoulcraft.com) by [MissGhouls](https://www.ghoulcraft.com/about-us): Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack
 - [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on
 
 ### 🔧 Tweaks resource-packs
 - [**Stacked Items**](https://www.planetminecraft.com/texture-pack/dasher-s-stacked-items) by [Vaderman24](https://www.planetminecraft.com/member/vaderman24) and [TheEthanExpress](https://www.planetminecraft.com/member/theethanexpress): this semi-unique resource pack uses Optifine's CIT features to give stacked items different textures based on the amount in the stack. It also gives enchanted books different textures depending on the enchantment it has
 
-### 🖌️ Resource-pack's Tools
+### 🖌️ Resource-pack's tools
 - [**MC Assets**](https://mcasset.cloud) by [Haylee](https://inventivetalent.org): a Browser for Minecraft Asset Files! Explore all Textures, Sounds, Models, Fonts, Shaders, and more from any Minecraft version, without having to extract the files yourself
-- [**Blockbench**](https://www.blockbench.net) by [JannisX11](https://github.com/JannisX11): a boxy 3D model editor that can be exported to Minecraft
+- [**Blockbench**](https://www.blockbench.net) by [JannisX11](https://github.com/JannisX11): a boxy 3D model editor that can be exported files to Minecraft
 
 ## 📦 Data-packs
 ### 👩‍🔬 Data-pack creators
@@ -66,7 +65,7 @@
 - [**Hielkemaps**](https://hielkemaps.com): create a lot of popular parkour maps
 
 ### 🗺️ Specific maps
-- [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) by [Noobcrew](https://www.minecraftforum.net/members/Noobcrew): `#TODO`
+- [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) by [Noobcrew](https://www.minecraftforum.net/members/Noobcrew): the concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you
 - [**Pyramid Adventure**](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map) by [JakpokCo](https://www.planetminecraft.com/member/jakpokco): `#TODO`
 - [**The City of Love**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1534098-1-6-puz-adv-the-city-of-love-what-will-your-story) by [Jigarbov](https://www.minecraftforum.net/members/Jigarbov): `#TODO`
 
