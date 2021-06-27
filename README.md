@@ -3,11 +3,17 @@
 ## 🖼️ Resource-packs
 ### 👨‍🎨 Resource-pack creators
 - [**Vanilla Tweaks**](https://vanillatweaks.net): Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. [Vanilla Tweaks resource packs](https://vanillatweaks.net/picker/resource-packs) can alter textures, sounds and models
+  > Here are my personal Vanilla Tweaks resource-packs:
+  > - [Main](https://vanillatweaks.net/share/#fLipkH)
+  > - [Utility](https://vanillatweaks.net/share/#DbjNCD)
+  > - [3D](https://vanillatweaks.net/share/#vGemyF)
+  > - [Fun](https://vanillatweaks.net/share/#Trs9GQ)
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs
 - [**Ewan Howell**](https://www.ewanhowell.com): they make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best)
 
 ### 🎨 Specific resource-packs
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) by [Mizuno](https://mizunomcmemo.blogspot.com): a 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items
+- [**Ghoulcraft**](https://www.ghoulcraft.com) by [MissGhouls](https://www.ghoulcraft.com/about-us): Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack
 - [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on
 
 ### 🔧 Tweaks resource-packs
@@ -27,26 +33,11 @@
 - [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) by [HoboMaggot](https://www.planetminecraft.com/member/hobomaggot): a datapack for the [Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees
 - [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) by [Croesus](https://www.planetminecraft.com/member/croesus): this is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
 
-### 🧰 Data-packs's tools
-- [**Gamer Geeks web-tools**](https://www.gamergeeks.net) by [Gamer Geeks](https://www.youtube.com/channel/UCIsEPo8j14FGrGvQg-4qq1Q): include:
-  > - Give Command Generators
-  > - Summon Mob Generators
-  > - Banner Tools & Collections
-  > - Minecraft Database & Other Tools
-- [**Minecraft Generators**](https://misode.github.io) by [Misode](https://github.com/misode): include:
-  > - Loot Table Generators
-  > - Predicate Generators
-  > - Item Modifier Generators
-  > - Advancement Generators
-  > - Dimension Generators
-  > - World Settings Generators
-  > <br>...
+### 🧰 Data-pack's tools
+- [**Gamer Geeks web-tools**](https://www.gamergeeks.net) by [Gamer Geeks](https://www.youtube.com/channel/UCIsEPo8j14FGrGvQg-4qq1Q): generators for `/give` command and summon mob, banner tools, Minecraft database and other tools
+- [**Minecraft Generators**](https://misode.github.io) by [Misode](https://github.com/misode): generators for loot table, predicate, item modifier, advancement, dimension, world...
 - [**MCStacker web-tools**](https://mcstacker.net) by [MCStacker](https://twitter.com/PyroStunts): this website will help you generate many commands for Minecraft, many of the specific options available for items and blocks can be generated with this tool
-- [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) by [Cloud Wolf](https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g): include:
-  > - Particle Plots
-  > - Block ID Packager
-  > - Scoreboard Trees
-  > - Image to JSON Text
+- [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) by [Cloud Wolf](https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g): particle plots, block ID packager, scoreboard trees and image to JSON text
 - [**Crafting**](https://crafting.thedestruc7i0n.ca) by [TheDestruc7i0n](https://thedestruc7i0n.ca): crafting recipe generator
 
 ## 🌏 Maps
@@ -60,22 +51,25 @@
 - [**Cubehamster**](https://www.planetminecraft.com/member/cubehamster): a slime block enthusiast, maker of [Missile Wars Mini Game](https://www.planetminecraft.com/project/missile-wars-mini-game-for-18) and an extremely high quality adventure map [The Heist](https://www.planetminecraft.com/project/the-heist-3372054)
 - [**Qmagnet**](https://www.planetminecraft.com/member/qmagnet): mastermind behind the [Diversity series](https://www.planetminecraft.com/project/diversity-multi-genre-map)
 - [**Noxcrew**](https://www.planetminecraft.com/member/noxcrew): the top quality adventure maps creator crew that make the masterpiece [Terra Swoop Force](https://www.planetminecraft.com/project/terra-swoop-force---noxcrews-new-minecraft-arcade-adventure-map)
-- [**Jespertheend**](https://www.minecraftforum.net/members/jespertheend): creator of [The Code](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1532767-the-code), [The Code II](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1543836-the-code-ii-infinite) and [The Code III](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1554017-the-code-iii-end)
-- [**The Farlanders**](https://thefarlanders.com): creator of [Captive Minecraft series](https://thefarlanders.com/captive-minecraft-home)
+- [**JakpokCo**](https://www.planetminecraft.com/member/jakpokco): creator of the classic [Pyramid Adventure](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map)
+- [**Jespertheend**](https://jespertheend.com): creator of puzzle series [The Code](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1532767-the-code), [The Code II](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1543836-the-code-ii-infinite) and [The Code III](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1554017-the-code-iii-end)
+- [**The Farlanders**](https://thefarlanders.com): creator of hits like [Captive Minecraft series](https://thefarlanders.com/captive-minecraft-home)
+- [**Jigarbov**](https://www.jigarbov.net): creator of [The City of Love](https://www.jigarbov.net/the-city-of-love-custom-map) and [Bridge Out Battle](https://www.jigarbov.net/bridge-out-battle-map-release)
 - [**Hielkemaps**](https://hielkemaps.com): create a lot of popular parkour maps
 
 ### 🗺️ Specific maps
 - [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) by [Noobcrew](https://www.minecraftforum.net/members/Noobcrew): the concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you
-- [**Pyramid Adventure**](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map) by [JakpokCo](https://www.planetminecraft.com/member/jakpokco): `#TODO`
-- [**The City of Love**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1534098-1-6-puz-adv-the-city-of-love-what-will-your-story) by [Jigarbov](https://www.minecraftforum.net/members/Jigarbov): `#TODO`
 
-## 🎮 In-game
+## 🎮 Gameplays
 ### 🚜 Farms
-- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
-- [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) by [MineTheFab](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w): 
-- [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): Fuel
-- [**Log farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) by [Dusty Dude](https://www.youtube.com/channel/UCvYXnd_Av0OuxQZSjso3jQA): 
-- [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) by [Ilmango](https://www.youtube.com/channel/UCHSI8erNrN6hs3sUK6oONLA): 
-- [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) by [NaMiature](https://www.youtube.com/channel/UC3iJe8ix3c9220yOZtlCRXQ): 
-- [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
-- [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
+- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): to fish [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) for making [perfect tools](https://ender-chest.com/tutorials/best-minecraft-enchantments-for-everything)
+- [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) by [MineTheFab](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w): for [irons](https://minecraft.fandom.com/wiki/Iron_Ingot)
+- [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): for making [scaffolding](https://minecraft.fandom.com/wiki/Scaffolding) and also [used as fuels](https://minecraft.fandom.com/wiki/Bamboo#Fuel)
+- [**Tree farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) by [Dusty Dude](https://www.youtube.com/channel/UCvYXnd_Av0OuxQZSjso3jQA): for [logs](https://minecraft.fandom.com/wiki/Log)
+- [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) by [Ilmango](https://www.youtube.com/channel/UCHSI8erNrN6hs3sUK6oONLA): for [golds](https://minecraft.fandom.com/wiki/Gold_Ingot), [XP](https://minecraft.fandom.com/wiki/Experience) and later for [piglin bartering](https://minecraft.fandom.com/wiki/Bartering)
+- [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) by [NaMiature](https://www.youtube.com/channel/UC3iJe8ix3c9220yOZtlCRXQ): for [strings](https://minecraft.fandom.com/wiki/String), [nether quartzs](https://minecraft.fandom.com/wiki/Nether_Quartz) and [arrows](https://minecraft.fandom.com/wiki/Arrow)
+- [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): for [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts)
+- [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading)
+
+### 🕹️ Gameplay's tools
+- [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) by [Asher](https://aglick.com), [Kevin](https://resourcecalculator.com/minecraft/kroden3d@gmail.com) and [Marc](https://github.com/mmodrow): tool that allow players to easily calculate how many raw resources they need in order to construct the items they want
