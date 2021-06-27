@@ -4,17 +4,18 @@
 ### Creators
 - [**Vanilla Tweaks**](https://vanillatweaks.net): [Vanilla Tweaks resource packs](https://vanillatweaks.net/picker/resource-packs)
 - [**Vaderman24**](https://www.planetminecraft.com/member/vaderman24): 
-- [**Nongko**](https://www.planetminecraft.com/member/nongko): 
+- [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed)
 - [**Ewan Howell**](https://www.ewanhowell.com): 
 
 ### Specifics
 - [**Smooth Block Transitions**](https://www.reddit.com/r/Minecraft/comments/61a408/smooth_block_transitions_grass_and_leaf_demo_done) and [**Chameleon Creeper**](https://www.reddit.com/r/Minecraft/comments/5zxtc6/chameleon_creeper_make_the_creeper_scary_again) by [UncleJam_](https://www.reddit.com/user/UncleJam_): 
 - [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): 
-- [****]() by [](): 
+- [**Ghoulcraft**](https://www.ghoulcraft.com) by [Mizuno and MissGhouls](https://www.ghoulcraft.com/about-us): 
+- [**Hafen**](https://www.planetminecraft.com/texture-pack/hafen-4052511) by [Nongko](https://www.planetminecraft.com/member/nongko): 
 
 ### Tools
-- [**MC Assets**](https://mcasset.cloud) by [](): 
-- [**Blockbench**](https://web.blockbench.net) by [](): 
+- [**MC Assets**](https://mcasset.cloud) by [Haylee](https://inventivetalent.org): 
+- [**Blockbench**](https://www.blockbench.net/) by [JannisX11](https://github.com/JannisX11): 
 
 ## Data Packs
 ### Creators
