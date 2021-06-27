@@ -3,19 +3,18 @@
 ## Resource Packs
 ### Creators
 - [**Vanilla Tweaks**](https://vanillatweaks.net): [Vanilla Tweaks resource packs](https://vanillatweaks.net/picker/resource-packs)
-- [**Vaderman24**](https://www.planetminecraft.com/member/vaderman24): 
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed)
 - [**Ewan Howell**](https://www.ewanhowell.com): 
 
 ### Specifics
-- [**Smooth Block Transitions**](https://www.reddit.com/r/Minecraft/comments/61a408/smooth_block_transitions_grass_and_leaf_demo_done) and [**Chameleon Creeper**](https://www.reddit.com/r/Minecraft/comments/5zxtc6/chameleon_creeper_make_the_creeper_scary_again) by [UncleJam_](https://www.reddit.com/user/UncleJam_): 
-- [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): 
+- [**Stacked Items**](https://www.planetminecraft.com/texture-pack/dasher-s-stacked-items) by [Vaderman24](https://www.planetminecraft.com/member/vaderman24) and [TheEthanExpress](https://www.planetminecraft.com/member/theethanexpress): 
+- [**Chameleon Creeper**](https://www.reddit.com/r/Minecraft/comments/5zxtc6/chameleon_creeper_make_the_creeper_scary_again) by [UncleJam_](https://www.reddit.com/user/UncleJam_): 
 - [**Ghoulcraft**](https://www.ghoulcraft.com) by [Mizuno and MissGhouls](https://www.ghoulcraft.com/about-us): 
-- [**Hafen**](https://www.planetminecraft.com/texture-pack/hafen-4052511) by [Nongko](https://www.planetminecraft.com/member/nongko): 
+- [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): 
 
 ### Tools
 - [**MC Assets**](https://mcasset.cloud) by [Haylee](https://inventivetalent.org): 
-- [**Blockbench**](https://www.blockbench.net/) by [JannisX11](https://github.com/JannisX11): 
+- [**Blockbench**](https://www.blockbench.net) by [JannisX11](https://github.com/JannisX11): 
 
 ## Data Packs
 ### Creators
@@ -48,7 +47,18 @@
 - [**Jespertheend**](https://www.minecraftforum.net/members/jespertheend): [The Code](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1532767-the-code), [The Code II](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1543836-the-code-ii-infinite) and [The Code III](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1554017-the-code-iii-end)
 - [**The Farlanders**](https://thefarlanders.com): [Captive Minecraft maps](https://thefarlanders.com/captive-minecraft-home)
 - [**Hielkemaps**](https://hielkemaps.com): 
+
 ### Specifics
 - [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) by [Noobcrew](https://www.minecraftforum.net/members/Noobcrew): 
 - [**Pyramid Adventure**](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map) by [JakpokCo](https://www.planetminecraft.com/member/jakpokco): 
 - [**The City of Love**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1534098-1-6-puz-adv-the-city-of-love-what-will-your-story) by [Jigarbov](https://www.minecraftforum.net/members/Jigarbov): 
+
+## Farms
+- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
+- [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) by [MineTheFab](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w): 
+- [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): Fuel
+- [**Log farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) by [Dusty Dude](https://www.youtube.com/channel/UCvYXnd_Av0OuxQZSjso3jQA): 
+- [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) by [Ilmango](https://www.youtube.com/channel/UCHSI8erNrN6hs3sUK6oONLA): 
+- [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) by [NaMiature](https://www.youtube.com/channel/UC3iJe8ix3c9220yOZtlCRXQ): 
+- [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
+- [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): 
