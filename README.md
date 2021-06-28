@@ -16,7 +16,7 @@
 - [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on
 - [**Bare Bones**](https://www.planetminecraft.com/texture-pack/bare-bones) by [RobotPantaloons](https://www.robotpantaloons.com): Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful (recommend using with [Spook's Bare Bones AddOn Pack](https://www.planetminecraft.com/texture-pack/spook-s-bare-bones-addon-pack/))
 
-### 🔧 Tweaks resource-packs
+### 🩹 Resource-patches
 - [**Fresh Animations**](https://www.planetminecraft.com/texture-pack/fresh-animations-v1-0) by [FreshLX](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw):  Fresh Animations is a resource pack that gives an overhaul to entity animations in the default look of Minecraft. The aim is to make the mobs more dynamic and believable
 - [**Creeping Ivy**](https://www.planetminecraft.com/texture-pack/creeping-ivy) by [Chesto_](https://www.planetminecraft.com/member/chesto_): make vine look bushy
 - [**Jaden's Camouflage Creepers**](https://www.planetminecraft.com/texture-pack/jaden-s-camouflage-creepers-optifine-required) by [JadenXgamer](https://www.planetminecraft.com/member/jadenxgamer): this Pack adds 160+ Creeper variants each with unique spawning conditions ranging from biomes, heights, rarity, weather, name tags and even time! to make survival Minecraft a whole lot harder...
@@ -32,13 +32,13 @@
 
 ## 📦 Data-packs
 ### 👩‍🔬 Data-pack creators
-- [**Vanilla Tweaks**](https://vanillatweaks.net): Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks) can run commands in-game, control loot tables, change crafting recipes and alter achievements
-- [**Voodoo Beard**](https://mc.voodoobeard.com): [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on. [Extra Dragon Eggs](https://mc.voodoobeard.com/#extra_dragon_eggs), [Shulker Respawning](https://mc.voodoobeard.com/#shulker_respawning), [Beehive Lore](https://mc.voodoobeard.com/#beehive_lore), [Auto-Plant Saplings](https://mc.voodoobeard.com/#auto-plant_saplings), [Nether Creepers](https://mc.voodoobeard.com/#nether_creepers), [Climbable Chains](https://mc.voodoobeard.com/#climbable_chains)
+- [**Vanilla Tweaks**](https://vanillatweaks.net): Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks) can run commands in-game, control loot tables, change crafting recipes and alter achievements ([Here are my personal Vanilla Tweaks data-pack](https://vanillatweaks.net/share#gadHkn))
+- [**Voodoo Beard**](https://mc.voodoobeard.com): [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on. E.g: [Extra Dragon Eggs](https://mc.voodoobeard.com/#extra_dragon_eggs), [Shulker Respawning](https://mc.voodoobeard.com/#shulker_respawning), [Beehive Lore](https://mc.voodoobeard.com/#beehive_lore), [Auto-Plant Saplings](https://mc.voodoobeard.com/#auto-plant_saplings), [Nether Creepers](https://mc.voodoobeard.com/#nether_creepers), [Climbable Chains](https://mc.voodoobeard.com/#climbable_chains)
 - [**Boomber360**](https://www.planetminecraft.com/member/boomber360): creator of many quality of life improvement mods like [Veinminer](https://www.planetminecraft.com/data-pack/veinminer-by-boomber), [Mineable Spawner](https://www.planetminecraft.com/data-pack/mineable-spawner), [Leash Villager](https://www.planetminecraft.com/data-pack/leash-villager), [Rope Ladder](https://www.planetminecraft.com/data-pack/rope-ladder-datapack) and [Double Door](https://www.planetminecraft.com/data-pack/double-door)
 
 ### 🧱 Specific data-packs
-- [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) by [HoboMaggot](https://www.planetminecraft.com/member/hobomaggot): a datapack for the [Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees
 - [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) by [Croesus](https://www.planetminecraft.com/member/croesus): this is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
+- [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) by [HoboMaggot](https://www.planetminecraft.com/member/hobomaggot): a datapack for [the Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees
 
 ### 🧰 Data-pack's tools
 - [**Gamer Geeks web-tools**](https://www.gamergeeks.net) by [Gamer Geeks](https://www.youtube.com/channel/UCIsEPo8j14FGrGvQg-4qq1Q): generators for `/give` command and summon mob, banner tools, Minecraft database and other tools
@@ -47,12 +47,12 @@
 - [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) by [Cloud Wolf](https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g): particle plots, block ID packager, scoreboard trees and image to JSON text
 - [**Crafting**](https://crafting.thedestruc7i0n.ca) by [TheDestruc7i0n](https://thedestruc7i0n.ca): crafting recipe generator
 
-## Mods
-### [Fabric](https://fabricmc.net)
+## 🔧 Mods
+### [📜 Fabric](https://fabricmc.net)
 - [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) by [Caffeine](https://github.com/CaffeineMC): optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft
-- [**ReplayMod**](https://www.replaymod.com) by [CrushedPixel](https://www.youtube.com/channel/UCbGrzgowatCRk7x5gVXhz-g): Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool
 - [**Litematica**](https://github.com/maruohon/litematica) by [Matti Ruohonen](https://github.com/maruohon): Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion)
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) by [EngineHub](https://enginehub.org): a Minecraft map editor... that runs in-game
+- [**ReplayMod**](https://www.replaymod.com) by [CrushedPixel](https://www.youtube.com/channel/UCbGrzgowatCRk7x5gVXhz-g): Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool
 
 <!-- - [**ConnectedTexturesMod**](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric) by [PepperCode1](https://github.com/PepperCode1): -->
 
