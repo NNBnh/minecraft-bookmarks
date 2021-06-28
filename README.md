@@ -33,8 +33,8 @@
 ## 📦 Data-packs
 ### 👩‍🔬 Data-pack creators
 - [**Vanilla Tweaks**](https://vanillatweaks.net): Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience. [Vanilla Tweaks datapacks](https://vanillatweaks.net/picker/datapacks) can run commands in-game, control loot tables, change crafting recipes and alter achievements
-- [**Voodoo Beard**](https://mc.voodoobeard.com): [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on
-- [**Boomber360**](https://www.planetminecraft.com/member/boomber360): `#TODO`
+- [**Voodoo Beard**](https://mc.voodoobeard.com): [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on. [Extra Dragon Eggs](https://mc.voodoobeard.com/#extra_dragon_eggs), [Shulker Respawning](https://mc.voodoobeard.com/#shulker_respawning), [Beehive Lore](https://mc.voodoobeard.com/#beehive_lore), [Auto-Plant Saplings](https://mc.voodoobeard.com/#auto-plant_saplings), [Nether Creepers](https://mc.voodoobeard.com/#nether_creepers), [Climbable Chains](https://mc.voodoobeard.com/#climbable_chains)
+- [**Boomber360**](https://www.planetminecraft.com/member/boomber360): creator of many quality of life improvement mods like [Veinminer](https://www.planetminecraft.com/data-pack/veinminer-by-boomber), [Mineable Spawner](https://www.planetminecraft.com/data-pack/mineable-spawner), [Leash Villager](https://www.planetminecraft.com/data-pack/leash-villager), [Rope Ladder](https://www.planetminecraft.com/data-pack/rope-ladder-datapack) and [Double Door](https://www.planetminecraft.com/data-pack/double-door)
 
 ### 🧱 Specific data-packs
 - [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) by [HoboMaggot](https://www.planetminecraft.com/member/hobomaggot): a datapack for the [Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees
@@ -47,11 +47,20 @@
 - [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) by [Cloud Wolf](https://www.youtube.com/channel/UCZnBqVITQ0dloqUU0fGxY3g): particle plots, block ID packager, scoreboard trees and image to JSON text
 - [**Crafting**](https://crafting.thedestruc7i0n.ca) by [TheDestruc7i0n](https://thedestruc7i0n.ca): crafting recipe generator
 
+## Mods
+### [Fabric](https://fabricmc.net)
+- [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) by [Caffeine](https://github.com/CaffeineMC): optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft
+- [**ReplayMod**](https://www.replaymod.com) by [CrushedPixel](https://www.youtube.com/channel/UCbGrzgowatCRk7x5gVXhz-g): Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool
+- [**Litematica**](https://github.com/maruohon/litematica) by [Matti Ruohonen](https://github.com/maruohon): Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion)
+- [**WorldEdit**](https://github.com/EngineHub/WorldEdit) by [EngineHub](https://enginehub.org): a Minecraft map editor... that runs in-game
+
+<!-- - [**ConnectedTexturesMod**](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric) by [PepperCode1](https://github.com/PepperCode1): -->
+
 ## 🌏 Maps
 ### 👷 Map creators
 - [**Disco**](https://www.planetminecraft.com/member/disco_): creator of many classic mini-game/boss-fight maps powered by redstone
 - [**Hypixel**](https://www.planetminecraft.com/member/hypixel): yes! this is the same team that run the server, they created many classic medieval adventure maps
-- [**SethBling**](https://www.planetminecraft.com/member/sethbling): [a redstone/command youtuber](https://www.youtube.com/c/MinecraftSethBling) who focus on making mini-game maps
+- [**SethBling**](https://www.planetminecraft.com/member/sethbling): a redstone/command youtuber who focus on making mini-game maps
 - [**Minecraft PG5**](https://www.planetminecraft.com/member/minecraftpg5): adventure/mini-game maps creator, most of his map are redstone showcases
 - [**Gazamo**](https://www.planetminecraft.com/member/gazamo): a professional Minecraft builder who can build in many styles
 - [**Bigre**](https://www.planetminecraft.com/member/bigre): creator of some of the most popular Minecraft adventure/parkour maps [The Dropper](https://www.planetminecraft.com/project/advpuzz-the-dropper-2-new-levels) and [Dimension jumper](https://www.planetminecraft.com/project/advpuzz-15-dimension-jumper)
@@ -67,7 +76,7 @@
 ### 🗺️ Specific maps
 - [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) by [Noobcrew](https://www.minecraftforum.net/members/Noobcrew): the concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you
 
-## 🎮 Gameplays
+## 🎮 Survival
 ### 🚜 Farms
 - [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): to fish [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) for making [perfect tools](https://ender-chest.com/tutorials/best-minecraft-enchantments-for-everything)
 - [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) by [MineTheFab](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w): for [irons](https://minecraft.fandom.com/wiki/Iron_Ingot)
@@ -78,6 +87,6 @@
 - [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): for [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts)
 - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading)
 
-### 🕹️ Gameplay's tools
+### 🕹️ Survival's tools
 - [**Amidst**](https://github.com/toolbox4minecraft/amidst) by [it's contributors](https://github.com/toolbox4minecraft/amidst/graphs/contributors): Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it
 - [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) by [Asher](https://aglick.com), [Kevin](https://resourcecalculator.com/minecraft/kroden3d@gmail.com) and [Marc](https://github.com/mmodrow): tool that allow players to easily calculate how many raw resources they need in order to construct the items they want
