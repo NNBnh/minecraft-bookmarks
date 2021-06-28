@@ -8,16 +8,21 @@
   > - [Utility](https://vanillatweaks.net/share/#DbjNCD)
   > - [3D](https://vanillatweaks.net/share/#vGemyF)
   > - [Fun](https://vanillatweaks.net/share/#Trs9GQ)
-- [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs
+- [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue): popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1/)
 - [**Ewan Howell**](https://www.ewanhowell.com): they make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best)
 
 ### 🎨 Specific resource-packs
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) by [Mizuno](https://mizunomcmemo.blogspot.com): a 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items
-- [**Ghoulcraft**](https://www.ghoulcraft.com) by [MissGhouls](https://www.ghoulcraft.com/about-us): Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack
 - [**Flows HD Revival**](http://flowshdrevival.com) by [Exevium](https://www.planetminecraft.com/member/exevium): "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on
+- [**Bare Bones**](https://www.planetminecraft.com/texture-pack/bare-bones) by [RobotPantaloons](https://www.robotpantaloons.com): Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful (recommend using with [Spook's Bare Bones AddOn Pack](https://www.planetminecraft.com/texture-pack/spook-s-bare-bones-addon-pack/))
 
 ### 🔧 Tweaks resource-packs
-- [**Stacked Items**](https://www.planetminecraft.com/texture-pack/dasher-s-stacked-items) by [Vaderman24](https://www.planetminecraft.com/member/vaderman24) and [TheEthanExpress](https://www.planetminecraft.com/member/theethanexpress): this semi-unique resource pack uses Optifine's CIT features to give stacked items different textures based on the amount in the stack. It also gives enchanted books different textures depending on the enchantment it has
+- [**Fresh Animations**](https://www.planetminecraft.com/texture-pack/fresh-animations-v1-0) by [FreshLX](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw):  Fresh Animations is a resource pack that gives an overhaul to entity animations in the default look of Minecraft. The aim is to make the mobs more dynamic and believable
+- [**Creeping Ivy**](https://www.planetminecraft.com/texture-pack/creeping-ivy) by [Chesto_](https://www.planetminecraft.com/member/chesto_): make vine look bushy
+- [**Jaden's Camouflage Creepers**](https://www.planetminecraft.com/texture-pack/jaden-s-camouflage-creepers-optifine-required) by [JadenXgamer](https://www.planetminecraft.com/member/jadenxgamer): this Pack adds 160+ Creeper variants each with unique spawning conditions ranging from biomes, heights, rarity, weather, name tags and even time! to make survival Minecraft a whole lot harder...
+- [**Eggmoticons**](https://www.planetminecraft.com/texture-pack/eggmoticons-egg-faces) by [Stiw91](https://www.planetminecraft.com/member/stiw91): Eggmoticons is a texture pack that adds the face of each mob to its respective egg so you don't have to hover each one to find the egg you want
+- [**Flower Pots +**](https://www.planetminecraft.com/texture-pack/flower-pots) by [WeNAN Studios](https://www.planetminecraft.com/member/wenan_studios): this pack improves flower pots
+- [**Ghoulcraft**](https://www.ghoulcraft.com) by [MissGhouls](https://www.ghoulcraft.com/about-us): Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack
 
 ### 🖌️ Resource-pack's tools
 - [**MC Assets**](https://mcasset.cloud) by [Haylee](https://inventivetalent.org): a Browser for Minecraft Asset Files! Explore all Textures, Sounds, Models, Fonts, Shaders, and more from any Minecraft version, without having to extract the files yourself
@@ -72,4 +77,5 @@
 - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) by [Rays Works](https://www.youtube.com/channel/UCDi2s0xQrfFwivdmsPiuU_w): mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading)
 
 ### 🕹️ Gameplay's tools
+- [**Amidst**](https://github.com/toolbox4minecraft/amidst) by [it's contributors](https://github.com/toolbox4minecraft/amidst/graphs/contributors): Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it
 - [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) by [Asher](https://aglick.com), [Kevin](https://resourcecalculator.com/minecraft/kroden3d@gmail.com) and [Marc](https://github.com/mmodrow): tool that allow players to easily calculate how many raw resources they need in order to construct the items they want
