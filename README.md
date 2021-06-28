@@ -1,4 +1,9 @@
-# Minecraft
+<h1 align="center"><i>NNB's Minecraft bookmarks</i></h1>
+<p align="center">My personal list of Minecraft stuff</p>
+<!-- <p align="center"><img src=""></p> -->
+
+## 💡 About
+**NNB's Minecraft bookmarks** is my personal list of [Minecraft](https://www.minecraft.net) stuff include resource-packs, data-packs, mods, maps and many more.
 
 ## 🖼️ Resource-packs
 ### 👨‍🎨 Resource-pack creators
@@ -90,3 +95,11 @@
 ### 🕹️ Survival's tools
 - [**Amidst**](https://github.com/toolbox4minecraft/amidst) by [it's contributors](https://github.com/toolbox4minecraft/amidst/graphs/contributors): Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it
 - [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) by [Asher](https://aglick.com), [Kevin](https://resourcecalculator.com/minecraft/kroden3d@gmail.com) and [Marc](https://github.com/mmodrow): tool that allow players to easily calculate how many raw resources they need in order to construct the items they want
+
+<br><br><br><br>
+
+---
+
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
