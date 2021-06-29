@@ -16,10 +16,14 @@
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue) [=](https://www.youtube.com/channel/UCDcich_SsnItj5C1nDqu7fA "Blue Haven's Youtube channel") popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1/).
 - [**Ewan Howell**](https://www.ewanhowell.com) [=](https://www.youtube.com/c/EwanHowell "Ewan Howell's Youtube channel") they make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best).
 
+<br>
+
 ### 🎨 Specific resource-packs
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) [=](https://mizunomcmemo.blogspot.com "Mizuno") a 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items.
 - [**Flows HD Revival**](http://flowshdrevival.com) [=](https://www.planetminecraft.com/member/exevium "Exevium") "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on.
 - [**Bare Bones**](https://www.planetminecraft.com/texture-pack/bare-bones) [=](https://www.robotpantaloons.com "RobotPantaloons") Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful (recommend using with [Spook's Bare Bones AddOn Pack](https://www.planetminecraft.com/texture-pack/spook-s-bare-bones-addon-pack/)).
+
+<br>
 
 ### 🩹 Resource-patches
 - [**Fresh Animations**](https://www.planetminecraft.com/texture-pack/fresh-animations-v1-0) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Fresh Animations is a resource pack that gives an overhaul to entity animations in the default look of Minecraft. The aim is to make the mobs more dynamic and believable.
@@ -31,9 +35,13 @@
 - [**Flower Pots +**](https://www.planetminecraft.com/texture-pack/flower-pots) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") this pack improves flower pots.
 - [**Ghoulcraft**](https://www.ghoulcraft.com) [=](https://www.ghoulcraft.com/about-us "MissGhouls") Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack.
 
+<br>
+
 ### 🖌️ Resource-pack's tools
 - [**MC Assets**](https://mcasset.cloud) [=](https://inventivetalent.org "Haylee") a Browser for Minecraft Asset Files! Explore all Textures, Sounds, Models, Fonts, Shaders, and more from any Minecraft version, without having to extract the files yourself.
 - [**Blockbench**](https://www.blockbench.net) [=](https://github.com/JannisX11 "JannisX11") a boxy 3D model editor that can be exported files to Minecraft.
+
+<br><br>
 
 ## 📦 Data-packs
 ### 👩‍🔬 Data-pack creators
@@ -41,9 +49,13 @@
 - [**Voodoo Beard**](https://mc.voodoobeard.com) [=](https://www.youtube.com/user/voodoobeard "Voodoo Beard's Youtube channel") [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on. E.g: [Extra Dragon Eggs](https://mc.voodoobeard.com/#extra_dragon_eggs), [Shulker Respawning](https://mc.voodoobeard.com/#shulker_respawning), [Beehive Lore](https://mc.voodoobeard.com/#beehive_lore), [Auto-Plant Saplings](https://mc.voodoobeard.com/#auto-plant_saplings), [Nether Creepers](https://mc.voodoobeard.com/#nether_creepers), [Climbable Chains](https://mc.voodoobeard.com/#climbable_chains).
 - [**Boomber360**](https://www.planetminecraft.com/member/boomber360) [=](https://www.youtube.com/c/Boomber123 "Boomber's Youtube channel") creator of many quality of life improvement mods like [Veinminer](https://www.planetminecraft.com/data-pack/veinminer-by-boomber), [Mineable Spawner](https://www.planetminecraft.com/data-pack/mineable-spawner), [Leash Villager](https://www.planetminecraft.com/data-pack/leash-villager), [Rope Ladder](https://www.planetminecraft.com/data-pack/rope-ladder-datapack) and [Double Door](https://www.planetminecraft.com/data-pack/double-door).
 
+<br>
+
 ### 🧱 Specific data-packs
 - [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) [=](https://www.planetminecraft.com/member/croesus "Croesus") this is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
 - [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) [=](https://www.planetminecraft.com/member/hobomaggot "HoboMaggot") a datapack for [the Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees.
+
+<br>
 
 ### 🧰 Data-pack's tools
 - [**Gamer Geeks web-tools**](https://www.gamergeeks.net) [=](https://www.youtube.com/c/Armchair "Armchair plays Minecraft") generators for `/give` command and summon mob, banner tools, Minecraft database and other tools.
@@ -52,14 +64,19 @@
 - [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) [=](https://www.youtube.com/c/CloudWolfMinecraft "Cloud Wolf") particle plots, block ID packager, scoreboard trees and image to JSON text.
 - [**Crafting**](https://crafting.thedestruc7i0n.ca) [=](https://thedestruc7i0n.ca "TheDestruc7i0n") crafting recipe generator.
 
+<br><br>
+
 ## 🔧 Mods
-### [📜 Fabric](https://fabricmc.net)
+> Use [Fabric](https://fabricmc.net).
+
 - [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) [=](https://github.com/CaffeineMC "Caffeine") optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub") a Minecraft map editor... that runs in-game.
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
 
 <!-- - [**ConnectedTexturesMod**](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric) by [PepperCode1](https://github.com/PepperCode1)-->
+
+<br><br>
 
 ## 🌏 Maps
 ### 👷 Map creators
@@ -78,8 +95,12 @@
 - [**The Farlanders**](https://thefarlanders.com) [=](https://www.youtube.com/user/FromTheFarLands "The Farlanders's Youtube channel") creator of hits like [Captive Minecraft series](https://thefarlanders.com/captive-minecraft-home).
 - [**Hielke**](https://hielkemaps.com) [=](https://www.youtube.com/c/HielkeMinecraft "Hielke's Youtube channel") create a lot of popular parkour maps.
 
+<br>
+
 ### 🗺️ Specific maps
 - [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) [=](https://www.minecraftforum.net/members/Noobcrew "Noobcrew") the concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you
+
+<br><br>
 
 ## 🎮 Survival
 ### 🚜 Farms
@@ -94,6 +115,8 @@
 - [**Ice farm**](https://www.youtube.com/watch?v=d8A06bX2f3Y) [=](https://www.youtube.com/c/gnembon "Gnembon") for [ices](https://minecraft.fandom.com/wiki/Ice) to make [ice-boat roads](https://www.youtube.com/watch?v=hiQTnwqrfEU).
 - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading).
 - [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") for [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts).
+
+<br>
 
 ### 🕹️ Survival's tools
 - [**Amidst**](https://github.com/toolbox4minecraft/amidst) [=](https://github.com/toolbox4minecraft/amidst/graphs/contributors) Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it.
