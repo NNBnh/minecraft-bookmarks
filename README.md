@@ -120,7 +120,7 @@
 
 ### 🕹️ Survival's tools
 - [**Amidst**](https://github.com/toolbox4minecraft/amidst) [=](https://github.com/toolbox4minecraft/amidst/graphs/contributors) Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it.
-- [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) [=](https://resourcecalculator.com "Resource Calculator") tool that allow players to easily calculate how many raw resources they need in order to construct the items they want.
+- [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) [=](https://resourcecalculator.com "Resource Calculator") Tool that allow players to easily calculate how many raw resources they need in order to construct the items they want.
 
 <br><br><br><br>
 
