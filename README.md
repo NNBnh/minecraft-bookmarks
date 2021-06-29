@@ -103,6 +103,13 @@
 <br><br>
 
 ## 🎮 Survival
+### 📝 Todo list
+- [**Speedrun (any%/random seed/glitchless)**](https://www.speedrun.com/mc/guides) [=](https://www.speedrun.com/mc) An exciting way to start a fresh Minecraft world.
+- [**Find diamonds using clays**](https://www.youtube.com/watch?v=x3RY-aoKb_M) and [**Find diamonds using lapis**](https://www.youtube.com/watch?v=XRk06ih6rBU) [=](https://www.youtube.com/c/icyyywinds/featured "Icyyywinds 's Youtube channel") Almost as powerful as cheating with X-ray (check out [this mathematical explanation](https://www.youtube.com/watch?v=5Icj5TNmBUI)).
+- [**Build farms**](https://github.com/NNBnh/minecraft-bookmarks#-farms) [=](https://github.com/NNBnh "NNB's Github page") Give yourself unlimited resources.
+- [**Build ice-boat roads**](https://www.youtube.com/watch?v=hiQTnwqrfEU) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") If your server doesn't have `/tpa`, this is the best method to traveling.
+- [**Build an automatic storage system**](https://www.youtube.com/watch?v=ccG25W45LjE) [=](https://www.youtube.com/c/MysticatLive "Mysticat's Youtube channel") Sort resources more organized.
+
 ### 🚜 Farms
 - [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") To fish [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) For making [perfect tools](https://ender-chest.com/tutorials/best-minecraft-enchantments-for-everything).
 - [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) [=](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w "MineTheFab's Youtube channel") For [irons](https://minecraft.fandom.com/wiki/Iron_Ingot).
@@ -112,7 +119,7 @@
 - [**Tree farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) [=](https://www.youtube.com/c/DustyDude "Dusty Dude's Youtube channel") For [logs](https://minecraft.fandom.com/wiki/Log).
 - [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") For [golds](https://minecraft.fandom.com/wiki/Gold_Ingot), [XP](https://minecraft.fandom.com/wiki/Experience) and later for [piglin bartering](https://minecraft.fandom.com/wiki/Bartering).
 - [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) [=](https://www.youtube.com/c/NaMiature "NaMiature's Youtube channel") For [strings](https://minecraft.fandom.com/wiki/String), [nether quartzs](https://minecraft.fandom.com/wiki/Nether_Quartz) and [arrows](https://minecraft.fandom.com/wiki/Arrow).
-- [**Ice farm**](https://www.youtube.com/watch?v=d8A06bX2f3Y) [=](https://www.youtube.com/c/gnembon "Gnembon") For [ices](https://minecraft.fandom.com/wiki/Ice) to make [ice-boat roads](https://www.youtube.com/watch?v=hiQTnwqrfEU).
+- [**Ice farm**](https://www.youtube.com/watch?v=d8A06bX2f3Y) [=](https://www.youtube.com/c/gnembon "Gnembon") For [ices](https://minecraft.fandom.com/wiki/Ice) to make ice-boat roads.
 - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading).
 - [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts).
 
