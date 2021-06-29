@@ -33,7 +33,12 @@
 - [**Xali's Enchanted Books**](https://www.planetminecraft.com/texture-pack/xali-s-enchanted-books) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make every enchanted books look distinguishable.
 - [**Eggmoticons**](https://www.planetminecraft.com/texture-pack/eggmoticons-egg-faces) [=](https://www.planetminecraft.com/member/stiw91 "Stiw91") Eggmoticons is a texture pack that adds the face of each mob to its respective egg so you don't have to hover each one to find the egg you want.
 - [**Flower Pots +**](https://www.planetminecraft.com/texture-pack/flower-pots) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") This pack improves flower pots.
+- [**Icons**](https://www.planetminecraft.com/texture-pack/icons-4896712) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") Adds icons to menus, items, subtitles but also GUI's.
+
+### CIT-packs
+- [**Fresh CIT**](https://www.planetminecraft.com/texture-pack/fresh-cit-v1-0) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Resource pack which adds decorative item models to the game for you to improve your builds.
 - [**Ghoulcraft**](https://www.ghoulcraft.com) [=](https://www.ghoulcraft.com/about-us "MissGhouls") Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack.
+- [**Minecraft Dungeons Textures for Minecraft**](https://www.planetminecraft.com/texture-pack/minecraft-dungeons-textures-for-minecraft-java-edition) [=](https://www.planetminecraft.com/member/kai1907 "Kai1907") In this pack you get some really cool textures from Minecraft Dungeons for Minecraft!
 
 <br>
 
@@ -69,10 +74,13 @@
 ## 🔧 Mods
 > Use [Fabric](https://fabricmc.net).
 
-- [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) [=](https://github.com/CaffeineMC "Caffeine") Optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
-- [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
-- [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub") A Minecraft map editor... that runs in-game.
-- [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
+- [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) [=](https://github.com/CaffeineMC "Caffeine's Github page") Optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
+- [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
+- [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
+- [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
+- [**CustomHud**](https://www.curseforge.com/minecraft/mc-mods/customhud) [=](https://github.com/Minenash "Minenash's Github page") CustomHud is a highly configurable variable-based text HUD.
+- [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin) [=](https://github.com/squeek502 "Ryan Liptak's Github page") Adds a visualization of saturation and exhaustion to the HUD.
+- [**Easy Shulker Access**](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-access) [=](https://github.com/Furgl "Furgl's Github page") Just right-click a shulker box in your inventory to open it.
 
 <!-- - [**ConnectedTexturesMod**](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric) by [PepperCode1](https://github.com/PepperCode1)-->
 
@@ -109,12 +117,15 @@
 - [**Build farms**](https://github.com/NNBnh/minecraft-bookmarks#-farms) [=](https://github.com/NNBnh "NNB's Github page") Give yourself unlimited resources.
 - [**Build ice-boat roads**](https://www.youtube.com/watch?v=hiQTnwqrfEU) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") If your server doesn't have `/tpa`, this is the best method to traveling.
 - [**Build an automatic storage system**](https://www.youtube.com/watch?v=ccG25W45LjE) [=](https://www.youtube.com/c/MysticatLive "Mysticat's Youtube channel") Sort resources more organized.
+- [**Build a mega base**](https://www.youtube.com/watch?v=kUlJBRceh-8) [=](https://www.youtube.com/c/Grian "Grian's Youtube channel") Best way to flex.
 
 ### 🚜 Farms
 - [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") To fish [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) For making [perfect tools](https://ender-chest.com/tutorials/best-minecraft-enchantments-for-everything).
 - [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) [=](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w "MineTheFab's Youtube channel") For [irons](https://minecraft.fandom.com/wiki/Iron_Ingot).
-- [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For making [scaffolding](https://minecraft.fandom.com/wiki/Scaffolding) and also [used as fuels](https://minecraft.fandom.com/wiki/Bamboo#Fuel).
 - [**Slime Farm**](https://www.youtube.com/watch?v=VA4R14oL_dg) [=](https://www.youtube.com/c/Shulkercraft "Shulkercraft's Youtube channel") For [slimeballs](https://minecraft.fandom.com/wiki/Slimeball).
+- [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For making [scaffolding](https://minecraft.fandom.com/wiki/Scaffolding) and also [used as fuels](https://minecraft.fandom.com/wiki/Bamboo#Fuel).
+- [**Sugarcane farm**](https://www.youtube.com/watch?v=XC9ZnABhEK4) [=](https://www.youtube.com/c/MysticatLive " Mysticat's Youtube channel") For making [books](https://minecraft.fandom.com/wiki/Book).
+- [**Wool farm**](https://www.youtube.com/watch?v=fBMCd5aqTfI) [=](https://www.youtube.com/c/MysticatLive " Mysticat's Youtube channel") For [wools](https://minecraft.fandom.com/wiki/Wool).
 - [**Bone Meal**](https://www.youtube.com/watch?v=HwbZzSaxXFA) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") To power the tree farm.
 - [**Tree farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) [=](https://www.youtube.com/c/DustyDude "Dusty Dude's Youtube channel") For [logs](https://minecraft.fandom.com/wiki/Log).
 - [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") For [golds](https://minecraft.fandom.com/wiki/Gold_Ingot), [XP](https://minecraft.fandom.com/wiki/Experience) and later for [piglin bartering](https://minecraft.fandom.com/wiki/Bartering).
