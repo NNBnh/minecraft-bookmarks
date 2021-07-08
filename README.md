@@ -57,6 +57,7 @@
 <br>
 
 ### 🧱 Specific data-packs
+- [**Craft Everything**](https://github.com/NNBnh/craft-everything) [=](https://github.com/NNBnh "NNBnh's Github page") The most ambitious Minecraft crafting recipes collections
 - [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) [=](https://www.planetminecraft.com/member/croesus "Croesus") This is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
 - [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) [=](https://www.planetminecraft.com/member/hobomaggot "HoboMaggot") A datapack for [the Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees.
 
