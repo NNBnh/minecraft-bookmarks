@@ -63,7 +63,7 @@
 <br>
 
 ### 🧰 Data-pack's tools
-- [**Gamer Geeks web-tools**](https://www.gamergeeks.net) [=](https://www.youtube.com/c/Armchair "Armchair plays Minecraft") Generators for `/give` command and summon mob, banner tools, Minecraft database and other tools.
+- [**Gamer Geeks web-tools**](https://www.gamergeeks.net) [=](https://www.youtube.com/c/Armchair "Armchair plays Minecraft") Generators for `/give` command and summon mob, banner tools, Minecraft database and other tools (also check out his [HD Heads Generator's Reddit post](https://www.reddit.com/r/gamergeeksnz/comments/kldiip/hd_heads_generator)).
 - [**Minecraft Generators**](https://misode.github.io) [=](https://github.com/misode "Misode") Generators for loot table, predicate, item modifier, advancement, dimension, world...
 - [**MCStacker web-tools**](https://mcstacker.net) [=](https://twitter.com/PyroStunts "MCStacker") This website will help you generate many commands for Minecraft, many of the specific options available for items and blocks can be generated with this tool.
 - [**Cloud Wolf Scripts**](https://cloudwolfyt.github.io) [=](https://www.youtube.com/c/CloudWolfMinecraft "Cloud Wolf") Particle plots, block ID packager, scoreboard trees and image to JSON text.
