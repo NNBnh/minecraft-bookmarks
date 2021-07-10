@@ -116,6 +116,7 @@
 - [**Speedrun (any%/random seed/glitchless)**](https://www.speedrun.com/mc/guides) [=](https://www.speedrun.com/mc) An exciting way to start a fresh Minecraft world.
 - [**Find diamonds using clays**](https://www.youtube.com/watch?v=x3RY-aoKb_M) and [**Find diamonds using lapis**](https://www.youtube.com/watch?v=XRk06ih6rBU) [=](https://www.youtube.com/c/icyyywinds/featured "Icyyywinds 's Youtube channel") Almost as powerful as cheating with X-ray (check out [this mathematical explanation](https://www.youtube.com/watch?v=5Icj5TNmBUI)).
 - [**Build farms**](https://github.com/NNBnh/minecraft-bookmarks#-farms) [=](https://github.com/NNBnh "NNB's Github page") Give yourself unlimited resources.
+- [**Kill a wither**](https://www.youtube.com/watch?v=s7Iclg9sIP0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Easy way to get [Nether Star](https://minecraft.fandom.com/wiki/Nether_Star).
 - [**Build ice-boat roads**](https://www.youtube.com/watch?v=hiQTnwqrfEU) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") If your server doesn't have `/tpa`, this is the best method to traveling.
 - [**Build an automatic storage system**](https://www.youtube.com/watch?v=ccG25W45LjE) [=](https://www.youtube.com/c/MysticatLive "Mysticat's Youtube channel") Sort resources more organized.
 - [**Build a mega base**](https://www.youtube.com/watch?v=kUlJBRceh-8) [=](https://www.youtube.com/c/Grian "Grian's Youtube channel") Best way to flex.
