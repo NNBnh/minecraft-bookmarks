@@ -21,6 +21,7 @@
 ### 🎨 Specific resource-packs
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) [=](https://mizunomcmemo.blogspot.com "Mizuno") A 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items.
 - [**Flows HD Revival**](http://flowshdrevival.com) [=](https://www.planetminecraft.com/member/exevium "Exevium") "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on.
+- [**Faithless**](https://www.curseforge.com/minecraft/texture-packs/faithless) [=](https://discord.gg/wcmxjtV "ItsStitchyYT's Discord server") This pack aims to help all types of colorblindness' including full monochromacy. It does this by giving ores unique shapes, blocks with 16 color variants different patterns, unique tool and armor designs which while do help with functionality, also will bring more character and life to your game.
 - [**Bare Bones**](https://www.planetminecraft.com/texture-pack/bare-bones) [=](https://www.robotpantaloons.com "RobotPantaloons") Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful (recommend using with [Spook's Bare Bones AddOn Pack](https://www.planetminecraft.com/texture-pack/spook-s-bare-bones-addon-pack/)).
 
 <br>
