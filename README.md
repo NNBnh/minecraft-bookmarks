@@ -33,6 +33,8 @@
 - [**Xali's Enhanced Wool**](https://www.planetminecraft.com/texture-pack/xali-s-enhanced-wool) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make different color wool knit together.
 - [**Xali's Enchanted Books**](https://www.planetminecraft.com/texture-pack/xali-s-enchanted-books) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make every enchanted books look distinguishable.
 - [**Eggmoticons**](https://www.planetminecraft.com/texture-pack/eggmoticons-egg-faces) [=](https://www.planetminecraft.com/member/stiw91 "Stiw91") Eggmoticons is a texture pack that adds the face of each mob to its respective egg so you don't have to hover each one to find the egg you want.
+- [**Shulker GUI x16**](https://www.planetminecraft.com/texture-pack/shulker-gui-x16) [=](https://www.planetminecraft.com/member/viertobi "viertobi") It simply adds a colored Vanilla GUI for each of the colored Shulker Boxes.
+- [**Better Maps**](https://www.planetminecraft.com/texture-pack/better-maps-4688677) [=](https://www.planetminecraft.com/member/genesect_ex "Genesect_EX") Better Maps is a simple resource pack to improve maps.
 - [**Flower Pots +**](https://www.planetminecraft.com/texture-pack/flower-pots) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") This pack improves flower pots.
 - [**Icons**](https://www.planetminecraft.com/texture-pack/icons-4896712) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") Adds icons to menus, items, subtitles but also GUI's.
 
@@ -83,6 +85,8 @@
 - [**CustomHud**](https://www.curseforge.com/minecraft/mc-mods/customhud) [=](https://github.com/Minenash "Minenash's Github page") CustomHud is a highly configurable variable-based text HUD.
 - [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin) [=](https://github.com/squeek502 "Ryan Liptak's Github page") Adds a visualization of saturation and exhaustion to the HUD.
 - [**Easy Shulker Access**](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-access) [=](https://github.com/Furgl "Furgl's Github page") Just right-click a shulker box in your inventory to open it.
+
+- [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) [=](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA "Simi Cats") a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation. The added elements of tech are designed to leave as many design choices to the player as possible, where item processing doesn't happen inside a single block with funny textures, it requires a set of actors working together in many possible arrangements.
 
 <!-- - [**ConnectedTexturesMod**](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric) by [PepperCode1](https://github.com/PepperCode1)-->
 
