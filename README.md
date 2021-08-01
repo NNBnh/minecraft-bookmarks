@@ -1,6 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/127767378-06031c18-8b10-46ce-8696-79d94cf88818.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/127767607-6ef9b050-6f10-4472-aaf1-cb790da0cdc1.png"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/127767375-bf343117-ee8b-49d8-841f-8855c8eb12fe.png"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/127767377-1c24c410-b974-4b31-b461-7f4c4fdaffee.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/127767606-d9444926-7aa2-430f-b96e-72ba1fa5a711.png"></p>
 
 ## 💡 About
 **NNB's Minecraft bookmarks** is my personal list of [Minecraft](https://www.minecraft.net) stuff include resource-packs, data-packs, mods, maps and many more.
