@@ -127,7 +127,7 @@
 - [**Build a mega base**](https://www.youtube.com/watch?v=kUlJBRceh-8) [=](https://www.youtube.com/c/Grian "Grian's Youtube channel") Best way to flex.
 
 ### 🚜 Farms
-- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") To fish [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) For making [god tools](https://www.youtube.com/watch?v=yucggU0rG8o).
+- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Fishing [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) for making [god tools](https://www.youtube.com/watch?v=yucggU0rG8o).
 - [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) [=](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w "MineTheFab's Youtube channel") For [irons](https://minecraft.fandom.com/wiki/Iron_Ingot).
 - [**Slime Farm**](https://www.youtube.com/watch?v=VA4R14oL_dg) [=](https://www.youtube.com/c/Shulkercraft "Shulkercraft's Youtube channel") For [slimeballs](https://minecraft.fandom.com/wiki/Slimeball).
 - [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For making [scaffolding](https://minecraft.fandom.com/wiki/Scaffolding) and also [used as fuels](https://minecraft.fandom.com/wiki/Bamboo#Fuel).
