@@ -79,12 +79,11 @@
 > Use [Fabric](https://fabricmc.net).
 
 - [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) [=](https://github.com/CaffeineMC "Caffeine's Github page") Optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
-- [**Chime**](https://www.curseforge.com/minecraft/mc-mods/chime-fabric) [=](https://github.com/emilyploszaj "Emily Rose Ploszaj's Github page") a mod that adds a predicate system for more dynamic and interesting item model variation.
+- [**OptiFabric**](https://www.curseforge.com/minecraft/mc-mods/optifabric) [=](https://github.com/Chocohead "Chocohead's Github page") A mod that can be used to run [OptiFine](https://www.optifine.net) on the Fabric Mod Loader.
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
 - [**CustomHud**](https://www.curseforge.com/minecraft/mc-mods/customhud) [=](https://github.com/Minenash "Minenash's Github page") CustomHud is a highly configurable variable-based text HUD.
-- [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin) [=](https://github.com/squeek502 "Ryan Liptak's Github page") Adds a visualization of saturation and exhaustion to the HUD.
 - [**Easy Shulker Access**](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-access) [=](https://github.com/Furgl "Furgl's Github page") Just right-click a shulker box in your inventory to open it.
 
 - [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) [=](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA "Simi Cats") a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation. The added elements of tech are designed to leave as many design choices to the player as possible, where item processing doesn't happen inside a single block with funny textures, it requires a set of actors working together in many possible arrangements.
