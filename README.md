@@ -9,10 +9,9 @@
 ### 👨‍🎨 Resource-pack creators
 - [**Vanilla Tweaks resource-pack**](https://vanillatweaks.net/picker/resource-packs) [=](https://vanillatweaks.net "Vanilla Tweaks") Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience.
   > Here are my personal Vanilla Tweaks resource-packs:
-  > - [Main](https://vanillatweaks.net/share#SufDkT)
-  > - [Utility](https://vanillatweaks.net/share/#DbjNCD)
-  > - [3D](https://vanillatweaks.net/share#V87NKC)
-  > - [Fun](https://vanillatweaks.net/share/#Trs9GQ)
+  > - [Main](https://vanillatweaks.net/share/#pKF8ZQ)
+  > - [Utility](https://vanillatweaks.net/share/#pUoOsr)
+  > - [3D](https://vanillatweaks.net/share/#2nHOxP)
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue) [=](https://www.youtube.com/channel/UCDcich_SsnItj5C1nDqu7fA "Blue Haven's Youtube channel") Popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1/).
 - [**Ewan Howell**](https://www.ewanhowell.com) [=](https://www.youtube.com/c/EwanHowell "Ewan Howell's Youtube channel") They make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best).
 
@@ -78,9 +77,8 @@
 ## 🔧 Mods
 > Use [Fabric](https://fabricmc.net).
 
-- [**Iris**](https://irisshaders.net) [=](https://www.curseforge.com/minecraft/mc-mods/irisshaders "Iris Shaders's website")
-  - A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
-  - It's include [**Sodium**](https://github.com/CaffeineMC/sodium-fabric), an optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
+- [**Iris**](https://irisshaders.net) [=](https://www.curseforge.com/minecraft/mc-mods/irisshaders "Iris Shaders's website") A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
+  - It's include [Sodium](https://github.com/CaffeineMC/sodium-fabric), an optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
 - [**Chime**](https://www.curseforge.com/minecraft/mc-mods/chime-fabric) [=](https://github.com/emilyploszaj "Emily Rose Ploszaj's Github page") A mod that adds a predicate system for more dynamic and interesting item model variation.
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
