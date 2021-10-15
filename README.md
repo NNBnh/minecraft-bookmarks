@@ -78,15 +78,17 @@
 ## 🔧 Mods
 > Use [Fabric](https://fabricmc.net).
 
-- [**Sodium**](https://github.com/CaffeineMC/sodium-fabric) [=](https://github.com/CaffeineMC "Caffeine's Github page") Optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
-- [**OptiFabric**](https://www.curseforge.com/minecraft/mc-mods/optifabric) [=](https://github.com/Chocohead "Chocohead's Github page") A mod that can be used to run [OptiFine](https://www.optifine.net) on the Fabric Mod Loader.
+- [**Iris**](https://irisshaders.net) [=](https://www.curseforge.com/minecraft/mc-mods/irisshaders "Iris Shaders's website")
+  - A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
+  - It's include [**Sodium**](https://github.com/CaffeineMC/sodium-fabric), an optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
+- [**Chime**](https://www.curseforge.com/minecraft/mc-mods/chime-fabric) [=](https://github.com/emilyploszaj "Emily Rose Ploszaj's Github page") A mod that adds a predicate system for more dynamic and interesting item model variation.
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
 - [**CustomHud**](https://www.curseforge.com/minecraft/mc-mods/customhud) [=](https://github.com/Minenash "Minenash's Github page") CustomHud is a highly configurable variable-based text HUD.
-- [**Easy Shulker Access**](https://www.curseforge.com/minecraft/mc-mods/easy-shulker-access) [=](https://github.com/Furgl "Furgl's Github page") Just right-click a shulker box in your inventory to open it.
+- [**Quick Shulker**](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) [=](https://github.com/kyrptonaught "Kyrptonaught's Github page") Quick Shulker allows you to quickly open Shulker Boxes(and Ender Chests and Crafting Tables(as of 1.1.13)) with the press of a button without placing them down.
 
-- [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) [=](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA "Simi Cats") a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation. The added elements of tech are designed to leave as many design choices to the player as possible, where item processing doesn't happen inside a single block with funny textures, it requires a set of actors working together in many possible arrangements.
+- [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) [=](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA "Simi Cats") A mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation. The added elements of tech are designed to leave as many design choices to the player as possible, where item processing doesn't happen inside a single block with funny textures, it requires a set of actors working together in many possible arrangements.
 
 <br><br>
 
