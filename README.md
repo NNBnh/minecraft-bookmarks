@@ -77,7 +77,7 @@
 ## 🔧 Mods
 > Use [Fabric](https://fabricmc.net).
 
-- [**Iris**](https://irisshaders.net) [=](https://www.curseforge.com/minecraft/mc-mods/irisshaders "Iris Shaders's website") A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
+- [**Iris**](https://www.curseforge.com/minecraft/mc-mods/irisshaders) [=](https://irisshaders.net "Iris Shaders's website") A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.
   - It's include [Sodium](https://github.com/CaffeineMC/sodium-fabric), an optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
 - [**Chime**](https://www.curseforge.com/minecraft/mc-mods/chime-fabric) [=](https://github.com/emilyploszaj "Emily Rose Ploszaj's Github page") A mod that adds a predicate system for more dynamic and interesting item model variation.
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
