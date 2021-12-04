@@ -9,9 +9,8 @@
 ### 👨‍🎨 Resource-pack creators
 - [**Vanilla Tweaks resource-pack**](https://vanillatweaks.net/picker/resource-packs) [=](https://vanillatweaks.net "Vanilla Tweaks") Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience.
   > Here are my personal Vanilla Tweaks resource-packs:
-  > - [Main](https://vanillatweaks.net/share/#cZUAGz)
-  > - [Utility](https://vanillatweaks.net/share/#pUoOsr)
-  > - [3D](https://vanillatweaks.net/share/#JjT6aN)
+  > - [Main](https://vanillatweaks.net/share#TdrlZz)
+  > - [3D](https://vanillatweaks.net/share#VLWzO6)
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue) [=](https://www.youtube.com/channel/UCDcich_SsnItj5C1nDqu7fA "Blue Haven's Youtube channel") Popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1/).
 - [**Ewan Howell**](https://www.ewanhowell.com) [=](https://www.youtube.com/c/EwanHowell "Ewan Howell's Youtube channel") They make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best).
 
@@ -154,4 +153,4 @@
 
 > <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
