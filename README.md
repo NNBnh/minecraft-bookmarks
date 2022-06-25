@@ -11,9 +11,6 @@
 ### 👨‍🎨 Resource-pack creators
 
 - [**Vanilla Tweaks resource-pack**](https://vanillatweaks.net/picker/resource-packs) [=](https://vanillatweaks.net "Vanilla Tweaks") Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience.
-  > Here are my personal Vanilla Tweaks resource-packs:
-  > - [Main](https://vanillatweaks.net/share#TdrlZz)
-  > - [3D](https://vanillatweaks.net/share#VLWzO6)
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue) [=](https://www.youtube.com/channel/UCDcich_SsnItj5C1nDqu7fA "Blue Haven's Youtube channel") Popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1).
 - [**Ewan Howell**](https://www.ewanhowell.com) [=](https://www.youtube.com/c/EwanHowell "Ewan Howell's Youtube channel") They make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best).
 
@@ -81,9 +78,13 @@
 
 ## 🔧 Mods
 
-> Just simply use [MultiMC](https://multimc.org) then install Fabulously Optimized _(described below)_ inside it.
+> Just simply use [PolyMC](https://polymc.org) then install Fabulously Optimized _(described below)_ inside it.
 
-- [**Fabulously Optimized**](https://github.com/Fabulously-Optimized/fabulously-optimized) [=](https://github.com/Fabulously-Optimized "Fabulously Optimized's Github page") A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
+- [**Fabulously Optimized**](https://modrinth.com/modpack/1KVo5zza) [=](https://github.com/Fabulously-Optimized "Fabulously Optimized's Github page") A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
+- [**VTDownloader**](https://modrinth.com/mod/1E2sq1cp) [=](https://github.com/ByMartrixx "ByMartrixX's Github page") Pick and download Vanilla Tweaks resource packs directly from your Minecraft client!
+- [**Distant Horizons**](https://modrinth.com/mod/uCdwusMi) [=](https://github.com/jeseibel "James Seibel's Github page") See farther without turning your game into a slide show.
+- [**Inspecio**](https://modrinth.com/mod/a93H3mKU) [=](https://github.com/Queerbric/Inspecio/graphs/contributors) A Minecraft mod which adds more tooltips.
+- [**MidnightControls**](https://modrinth.com/mod/bXX9h73M) [=](https://github.com/TeamMidnightDust/MidnightControls/graphs/contributors) Pick and download Vanilla Tweaks resource packs directly from your Minecraft client!
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
