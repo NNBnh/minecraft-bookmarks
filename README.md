@@ -32,9 +32,7 @@
 - [**Xali's Enchanted Books**](https://www.planetminecraft.com/texture-pack/xali-s-enchanted-books) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make every enchanted books look distinguishable.
 - [**Eggmoticons**](https://www.planetminecraft.com/texture-pack/eggmoticons-egg-faces) [=](https://www.planetminecraft.com/member/stiw91 "Stiw91") Eggmoticons is a texture pack that adds the face of each mob to its respective egg so you don't have to hover each one to find the egg you want.
 - [**Shulker GUI x16**](https://www.planetminecraft.com/texture-pack/shulker-gui-x16) [=](https://www.planetminecraft.com/member/viertobi "viertobi") It simply adds a colored Vanilla GUI for each of the colored Shulker Boxes.
-- [**Better Maps**](https://www.planetminecraft.com/texture-pack/better-maps-4688677) [=](https://www.planetminecraft.com/member/genesect_ex "Genesect_EX") Better Maps is a simple resource pack to improve maps.
 - [**Flower Pots +**](https://www.planetminecraft.com/texture-pack/flower-pots) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") This pack improves flower pots.
-- [**Icons**](https://www.planetminecraft.com/texture-pack/icons-4896712) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") Adds icons to menus, items, subtitles but also GUI's.
 
 ### ⭐ CIT-packs
 - [**Fresh CIT**](https://www.planetminecraft.com/texture-pack/fresh-cit-v1-0) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Resource pack which adds decorative item models to the game for you to improve your builds.
@@ -84,7 +82,6 @@
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
 - [**CustomHud**](https://www.curseforge.com/minecraft/mc-mods/customhud) [=](https://github.com/Minenash "Minenash's Github page") CustomHud is a highly configurable variable-based text HUD.
 - [**Quick Shulker**](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) [=](https://github.com/kyrptonaught "Kyrptonaught's Github page") Quick Shulker allows you to quickly open Shulker Boxes(and Ender Chests and Crafting Tables(as of 1.1.13)) with the press of a button without placing them down.
-
 - [**Create**](https://www.curseforge.com/minecraft/mc-mods/create) [=](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA "Simi Cats") A mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation. The added elements of tech are designed to leave as many design choices to the player as possible, where item processing doesn't happen inside a single block with funny textures, it requires a set of actors working together in many possible arrangements.
 
 <br><br>
