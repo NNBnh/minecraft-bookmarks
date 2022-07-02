@@ -81,7 +81,7 @@
 
 ## 🔧 Mods
 
-> Just simply use [PolyMC](https://polymc.org) then install Fabulously Optimized _(described below)_ inside it.
+> **Note** Just simply use [PolyMC](https://polymc.org) then install Fabulously Optimized _(described below)_ inside it.
 
 - [**Fabulously Optimized**](https://modrinth.com/modpack/1KVo5zza) [=](https://github.com/Fabulously-Optimized "Fabulously Optimized's Github page") A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
 - [**Distant Horizons**](https://modrinth.com/mod/uCdwusMi) [=](https://github.com/jeseibel "James Seibel's Github page") See farther without turning your game into a slide show.
@@ -150,7 +150,7 @@
 - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading).
 - [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts).
 
-> check out [Farm everything document](http://bit.ly/FarmEverything) by [Rays Works](https://www.youtube.com/c/RaysWorks).
+> **Note** check out [Farm everything document](http://bit.ly/FarmEverything) by [Rays Works](https://www.youtube.com/c/RaysWorks).
 
 <br>
 
