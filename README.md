@@ -107,6 +107,7 @@
 - [**Cubehamster**](https://www.planetminecraft.com/member/cubehamster) [=](https://www.youtube.com/c/cubehamster "Cubehamster's Youtube channel") A slime block enthusiast, maker of [Missile Wars Mini Game](https://www.planetminecraft.com/project/missile-wars-mini-game-for-18) and an extremely high quality adventure map [The Heist](https://www.planetminecraft.com/project/the-heist-3372054).
 - [**Qmagnet**](https://www.planetminecraft.com/member/qmagnet) [=](https://www.youtube.com/user/theqmagnet "TheQmagnet's Youtube channel") Mastermind behind the [Diversity series](https://www.planetminecraft.com/project/diversity-multi-genre-map).
 - [**JakpokCo**](https://www.planetminecraft.com/member/jakpokco) [=](https://www.youtube.com/user/JakpokCo "Jakub Pokorski's Youtube channel") Creator of the classic [Pyramid Adventure](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map).
+- [**Flamingosaurus**](https://www.planetminecraft.com/member/flamingosaurus) [=](https://www.youtube.com/user/iforgotmyname011 "Flamingosaurus's Youtube channel") .
 - [**Noxcrew**](https://noxcrew.com/creations) [=](https://www.youtube.com/user/NoxcrewPresents "Noxcrew's Youtube channel") The top quality adventure maps creator crew that make many maps-terpiece.
 - [**Jigarbov**](https://www.jigarbov.net) [=](https://www.youtube.com/user/jigarbov "Jigarbov's Youtube channel") Creator of [The City of Love](https://www.jigarbov.net/the-city-of-love-custom-map) and [Bridge Out Battle](https://www.jigarbov.net/bridge-out-battle-map-release).
 - [**Jesper the End**](https://jespertheend.com) [=](https://www.youtube.com/c/JesperTheEnd2 "Jesper the End's Youtube channel") Creator of puzzle series [The Code](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1532767-the-code), [The Code II](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1543836-the-code-ii-infinite) and [The Code III](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1554017-the-code-iii-end).
@@ -117,7 +118,7 @@
 
 ### 🗺️ Specific maps
 
-- [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) [=](https://www.minecraftforum.net/members/Noobcrew "Noobcrew") The concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you
+- [**Skyblock**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock) [=](https://www.minecraftforum.net/members/Noobcrew "Noobcrew") The concept behind the map is very simple; you spawn on a floating island and must survive and complete challenges with the resources available to you.
 
 <br><br>
 
