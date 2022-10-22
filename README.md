@@ -63,9 +63,7 @@
 
 ### 🧱 Specific data-packs
 
-- [**Craft Everything**](https://github.com/NNBnh/craft-everything) [=](https://github.com/NNBnh "NNBnh's Github page") The most ambitious Minecraft crafting recipes collections
 - [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) [=](https://www.planetminecraft.com/member/croesus "Croesus") This is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
-- [**Twerking for Trees**](https://www.planetminecraft.com/data-pack/twerking-for-trees) [=](https://www.planetminecraft.com/member/hobomaggot "HoboMaggot") A datapack for [the Youtuber Skunkmunkee](https://www.youtube.com/user/spmetz) that focuses on the aspect of Twerking... in order to grow trees.
 
 <br>
 
@@ -81,7 +79,7 @@
 
 ## 🔧 Mods
 
-> **Note** Just simply use [PolyMC](https://polymc.org) then install Fabulously Optimized _(described below)_ inside it.
+> **Note** Just simply use [Prism Launcher](https://prismlauncher.org) then install Fabulously Optimized _(described below)_ inside it.
 
 - [**Fabulously Optimized**](https://modrinth.com/modpack/1KVo5zza) [=](https://github.com/Fabulously-Optimized "Fabulously Optimized's Github page") A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
 - [**Distant Horizons**](https://modrinth.com/mod/uCdwusMi) [=](https://github.com/jeseibel "James Seibel's Github page") See farther without turning your game into a slide show.
@@ -160,10 +158,4 @@
 - [**Amidst**](https://github.com/toolbox4minecraft/amidst) [=](https://github.com/toolbox4minecraft/amidst/graphs/contributors) Amidst is a tool to display an overview of a Minecraft world (e.g: biome information, slime chunks, structures), without actually creating it.
 - [**Resour Cecalculator**](https://resourcecalculator.com/minecraft) [=](https://resourcecalculator.com "Resource Calculator") Tool that allow players to easily calculate how many raw resources they need in order to construct the items they want.
 
-<br><br><br><br>
-
----
-
-> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
->
-> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+<a href="https://github.com/NNBnh"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0284C7&fontColor=F0F9FF&height=128&desc=Made%20with%20%26lt;3%20by%20NNB&descAlignY=80"/></a>
