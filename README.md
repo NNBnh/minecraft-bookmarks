@@ -14,6 +14,7 @@
   > Here are my personal Vanilla Tweaks resource-packs:
   > - [Main](https://vanillatweaks.net/share#TdrlZz)
   > - [3D](https://vanillatweaks.net/share#VLWzO6)
+- [**StefanJ2**](https://modrinth.com/user/stefanJ2) [=](https://github.com/stefanJ2BVB "StefanJ2's Github") Creator of many [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding) resource packs.
 - [**Sixfootblue**](https://www.planetminecraft.com/member/sixfootblue) [=](https://www.youtube.com/channel/UCDcich_SsnItj5C1nDqu7fA "Blue Haven's Youtube channel") Popular with [Itembound](https://www.planetminecraft.com/texture-pack/itembound-fixed) and other quality CIT packs like [Visual Fish Buckets](https://www.planetminecraft.com/texture-pack/visual-fish-buckets-1-13-1).
 - [**Ewan Howell**](https://www.ewanhowell.com) [=](https://www.youtube.com/c/EwanHowell "Ewan Howell's Youtube channel") They make a large variety of resource packs these can range from completely redesigning the in-game textures, to recreating features from unreleased updates, to making *"cursed"* entity models. ([Rebearth](https://www.ewanhowell.com/?pack=rebearth-remastered) is one of the best).
 
@@ -23,7 +24,9 @@
 
 - [**Mizuno's 16 craft**](https://mizunomcmemo.blogspot.com/p/resourcepack.html) [=](https://mizunomcmemo.blogspot.com "Mizuno") A 16x16 semi-vanilla resource packs with harmony color, familiar design and many CIT items.
 - [**Flows HD Revival**](http://flowshdrevival.com) [=](https://www.planetminecraft.com/member/exevium "Exevium") "We are modern, we are organic, we are elegant", this is the best high resolution modern resource pack that many building server's resource packs base on.
-- [**Faithless**](https://www.curseforge.com/minecraft/texture-packs/faithless) [=](https://discord.gg/wcmxjtV "ItsStitchyYT's Discord server") This pack aims to help all types of colorblindness' including full monochromacy. It does this by giving ores unique shapes, blocks with 16 color variants different patterns, unique tool and armor designs which while do help with functionality, also will bring more character and life to your game.
+- [**HIDYK's REALM**](https://modrinth.com/resourcepack/hidyksrealm) [=](https://modrinth.com/user/Hidykkk "Hidykkk") The best vanilla resource pack? Maybe...
+- [**Faithless**](https://modrinth.com/resourcepack/faithless) [=](https://discord.gg/wcmxjtV "ItsStitchyYT's Discord server") This pack aims to help all types of colorblindness' including full monochromacy. It does this by giving ores unique shapes, blocks with 16 color variants different patterns, unique tool and armor designs which while do help with functionality, also will bring more character and life to your game.
+- [**Alacrity**](https://modrinth.com/resourcepack/alacrity) [=](https://modrinth.com/user/Satellence "Satellence") 32x resource pack with crazy attention to details.
 - [**Bare Bones**](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) [=](https://www.robotpantaloons.com "RobotPantaloons") Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful (recommend using with [Spook's Bare Bones AddOn Pack](https://www.planetminecraft.com/texture-pack/spook-s-bare-bones-addon-pack)).
 
 <br>
@@ -32,8 +35,8 @@
 
 - [**Fresh Animations**](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Fresh Animations is a resource pack that gives an overhaul to entity animations in the default look of Minecraft. The aim is to make the mobs more dynamic and believable.
 - [**Creeping Ivy**](https://www.planetminecraft.com/texture-pack/creeping-ivy) [=](https://www.planetminecraft.com/member/chesto_ "Chesto_") Make vine look bushy.
-- [**Jaden's Camouflage Creepers**](https://www.planetminecraft.com/texture-pack/jaden-s-camouflage-creepers-optifine-required) [=](https://www.planetminecraft.com/member/jadenxgamer "JadenXgamer") This Pack adds 160+ Creeper variants each with unique spawning conditions ranging from biomes, heights, rarity, weather, name tags and even time! to make survival Minecraft a whole lot harder...
-- [**Xali's Enchanted Books**](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make every enchanted books look distinguishable.
+- [**Visual Leaf Decay**](https://modrinth.com/resourcepack/visual-leaf-decay) [=](https://modrinth.com/user/6_28318530717958 "6_28318530717958") Shows you when leaves will decay.
+- [**Paler Birch Wood**](https://modrinth.com/resourcepack/paler-birch-wood) [=](https://modrinth.com/user/Nebby_56 "Nebby_56") This Pack Aims to Improve Minecraft's Birch-Related Textures to look more like the actual wood while fitting in the game itself.
 
 ### ⭐ CIT-packs
 
