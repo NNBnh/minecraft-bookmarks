@@ -28,7 +28,7 @@
 
 <br>
 
-### 🩹 Resource-patches
+### 📝 Tweaks
 
 - [**Fresh Animations**](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Fresh Animations is a resource pack that gives an overhaul to entity animations in the default look of Minecraft. The aim is to make the mobs more dynamic and believable.
 - [**Creeping Ivy**](https://www.planetminecraft.com/texture-pack/creeping-ivy) [=](https://www.planetminecraft.com/member/chesto_ "Chesto_") Make vine look bushy.
@@ -56,12 +56,6 @@
 - [**Vanilla Tweaks data-pack**](https://vanillatweaks.net/picker/datapacks) [=](https://vanillatweaks.net "Vanilla Tweaks") Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. They're mostly subtle changes to improve the default game experience ([Here is my personal Vanilla Tweaks data-pack](https://vanillatweaks.net/share#OSUqW0)).
 - [**Voodoo Beard**](https://mc.voodoobeard.com) [=](https://www.youtube.com/user/voodoobeard "Voodoo Beard's Youtube channel") [Voodoo Packs](https://mc.voodoobeard.com/#datapacks) Is a collection of Data Packs made as either experiments, things Voodoo Beard'd like to be in vanilla or QoL stuff for servers he play on. E.g: [Extra Dragon Eggs](https://mc.voodoobeard.com/#extra_dragon_eggs), [Shulker Respawning](https://mc.voodoobeard.com/#shulker_respawning), [Beehive Lore](https://mc.voodoobeard.com/#beehive_lore), [Auto-Plant Saplings](https://mc.voodoobeard.com/#auto-plant_saplings), [Nether Creepers](https://mc.voodoobeard.com/#nether_creepers), [Climbable Chains](https://mc.voodoobeard.com/#climbable_chains).
 - [**Boomber360**](https://www.planetminecraft.com/member/boomber360) [=](https://www.youtube.com/c/Boomber123 "Boomber's Youtube channel") Creator of many quality of life improvement mods like [Veinminer](https://www.planetminecraft.com/data-pack/veinminer-by-boomber), [Mineable Spawner](https://www.planetminecraft.com/data-pack/mineable-spawner), [Leash Villager](https://www.planetminecraft.com/data-pack/leash-villager), [Rope Ladder](https://www.planetminecraft.com/data-pack/rope-ladder-datapack) and [Double Door](https://www.planetminecraft.com/data-pack/double-door).
-
-<br>
-
-### 🧱 Specific data-packs
-
-- [**Crawling Datapack**](https://www.planetminecraft.com/data-pack/crawling-datapack) [=](https://www.planetminecraft.com/member/croesus "Croesus") This is a datapack that allows you to crawl anywhere, anytime. Just sneak while looking down to begin crawling, and jump to stand back up!
 
 <br>
 
@@ -99,7 +93,7 @@
 - [**Gazamo**](https://www.planetminecraft.com/member/gazamo) [=](https://www.youtube.com/user/GazamoNetwork "GazamoNetwork's Youtube channel") A professional Minecraft builder who can build in many styles.
 - [**Bigre**](https://www.planetminecraft.com/member/bigre) [=](https://www.minecraftforum.net/user/872751-bigre "Bigre's Minecraft Forum account") Creator of some of the most popular Minecraft adventure/parkour maps [The Dropper](https://www.planetminecraft.com/project/advpuzz-the-dropper-2-new-levels) and [Dimension jumper](https://www.planetminecraft.com/project/advpuzz-15-dimension-jumper).
 - [**Cubehamster**](https://www.planetminecraft.com/member/cubehamster) [=](https://www.youtube.com/c/cubehamster "Cubehamster's Youtube channel") A slime block enthusiast, maker of [Missile Wars Mini Game](https://www.planetminecraft.com/project/missile-wars-mini-game-for-18) and an extremely high quality adventure map [The Heist](https://www.planetminecraft.com/project/the-heist-3372054).
-- [**Qmagnet**](https://www.planetminecraft.com/member/qmagnet) [=](https://www.youtube.com/user/theqmagnet "TheQmagnet's Youtube channel") Mastermind behind the [Diversity series](https://www.planetminecraft.com/project/diversity-multi-genre-map).
+- [**Qmagnet**](https://www.planetminecraft.com/member/qmagnet) [=](https://www.youtube.com/user/theqmagnet "TheQmagnet's Youtube channel") Mastermind behind the [Diversity series](https://www.planetminecraft.com/project/diversity-3).
 - [**JakpokCo**](https://www.planetminecraft.com/member/jakpokco) [=](https://www.youtube.com/user/JakpokCo "Jakub Pokorski's Youtube channel") Creator of the classic [Pyramid Adventure](https://www.planetminecraft.com/project/pyramid-adventure-adventure-map).
 - [**Flamingosaurus**](https://www.planetminecraft.com/member/flamingosaurus) [=](https://www.youtube.com/user/iforgotmyname011 "Flamingosaurus's Youtube channel") New creators that make cool minigame maps..
 - [**Noxcrew**](https://noxcrew.com/creations) [=](https://www.youtube.com/user/NoxcrewPresents "Noxcrew's Youtube channel") The top quality adventure maps creator crew that make many maps-terpiece.
@@ -126,23 +120,22 @@
 - [**Kill a wither**](https://www.youtube.com/watch?v=s7Iclg9sIP0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Easy way to get [Nether Star](https://minecraft.fandom.com/wiki/Nether_Star).
 - [**Build ice-boat roads**](https://www.youtube.com/watch?v=hiQTnwqrfEU) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") If your server doesn't have `/tpa`, this is the best method to traveling.
 - [**Build an automatic storage system**](https://www.youtube.com/watch?v=ccG25W45LjE) [=](https://www.youtube.com/c/MysticatLive "Mysticat's Youtube channel") Sort resources more organized.
-- [**Build a mega base**](https://www.youtube.com/watch?v=kUlJBRceh-8) [=](https://www.youtube.com/c/Grian "Grian's Youtube channel") Best way to flex.
 
 ### 🚜 Farms
 
-- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Fishing [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) for making [god tools](https://www.youtube.com/watch?v=yucggU0rG8o).
 - [**Iron farm**](https://www.youtube.com/watch?v=Pa4wRB5WJqc) [=](https://www.youtube.com/channel/UCA80oRPhnBQLaSHk4ABfh2w "MineTheFab's Youtube channel") For [irons](https://minecraft.fandom.com/wiki/Iron_Ingot).
+- [**Treasure AFK fish farm**](https://www.youtube.com/watch?v=OMEInK81SG0) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Fishing [enchanted books](https://minecraft.fandom.com/wiki/Enchanted_Book) for making [god tools](https://www.youtube.com/watch?v=yucggU0rG8o).
 - [**Slime Farm**](https://www.youtube.com/watch?v=VA4R14oL_dg) [=](https://www.youtube.com/c/Shulkercraft "Shulkercraft's Youtube channel") For [slimeballs](https://minecraft.fandom.com/wiki/Slimeball).
+- [**Wool farm**](https://www.youtube.com/watch?v=fBMCd5aqTfI) [=](https://www.youtube.com/c/MysticatLive " Mysticat's Youtube channel") For [wools](https://minecraft.fandom.com/wiki/Wool).
 - [**Bamboo farm**](https://www.youtube.com/watch?v=cwu1z82IXYc) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For making [scaffolding](https://minecraft.fandom.com/wiki/Scaffolding) and also [used as fuels](https://minecraft.fandom.com/wiki/Bamboo#Fuel).
 - [**Sugarcane farm**](https://www.youtube.com/watch?v=XC9ZnABhEK4) [=](https://www.youtube.com/c/MysticatLive " Mysticat's Youtube channel") For making [books](https://minecraft.fandom.com/wiki/Book).
-- [**Wool farm**](https://www.youtube.com/watch?v=fBMCd5aqTfI) [=](https://www.youtube.com/c/MysticatLive " Mysticat's Youtube channel") For [wools](https://minecraft.fandom.com/wiki/Wool).
 - [**Bone Meal**](https://www.youtube.com/watch?v=HwbZzSaxXFA) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") To power the tree farm.
-- [**Tree farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) [=](https://www.youtube.com/c/DustyDude "Dusty Dude's Youtube channel") For [logs](https://minecraft.fandom.com/wiki/Log).
-- [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") For [golds](https://minecraft.fandom.com/wiki/Gold_Ingot), [XP](https://minecraft.fandom.com/wiki/Experience) and later for [piglin bartering](https://minecraft.fandom.com/wiki/Bartering).
-- [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) [=](https://www.youtube.com/c/NaMiature "NaMiature's Youtube channel") For [strings](https://minecraft.fandom.com/wiki/String), [nether quartzs](https://minecraft.fandom.com/wiki/Nether_Quartz) and [arrows](https://minecraft.fandom.com/wiki/Arrow).
+  - [**Tree farm**](https://www.youtube.com/watch?v=CoWb8JmMLhw) [=](https://www.youtube.com/c/DustyDude "Dusty Dude's Youtube channel") For [logs](https://minecraft.fandom.com/wiki/Log).
+- [**Gold farm**](https://www.youtube.com/watch?v=lCs3StdbuqU) [=](https://www.youtube.com/c/ilmango "Ilmango's Youtube channel") For [golds](https://minecraft.fandom.com/wiki/Gold_Ingot), [XP](https://minecraft.fandom.com/wiki/Experience).
+  - [**Piglin bartering farm**](https://www.youtube.com/watch?v=BSIw_Mk0bJ4) [=](https://www.youtube.com/c/NaMiature "NaMiature's Youtube channel") For [strings](https://minecraft.fandom.com/wiki/String), [nether quartzs](https://minecraft.fandom.com/wiki/Nether_Quartz).
+  - [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading).
 - [**Shulker farm**](https://www.youtube.com/watch?v=pFdLqTE1MzE) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For making [shulker boxs](https://minecraft.fandom.com/wiki/Shulker_Box).
 - [**Ice farm**](https://www.youtube.com/watch?v=d8A06bX2f3Y) [=](https://www.youtube.com/c/gnembon "Gnembon") For [ices](https://minecraft.fandom.com/wiki/Ice) to make ice-boat roads.
-- [**All in 1 Villager Factory**](https://www.youtube.com/watch?v=-AkoWbKdYvw) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") Mainly for [carrots](https://minecraft.fandom.com/wiki/Carrot) ([golden carrots](https://minecraft.fandom.com/wiki/Golden_Carrot)) and [villagers trading](https://minecraft.fandom.com/wiki/Trading).
 - [**Hero of the villager Raid farm**](https://www.youtube.com/watch?v=2gcWlWTuTj8) [=](https://www.youtube.com/c/RaysWorks "Rays Works's Youtube channel") For [totems of undying](https://minecraft.fandom.com/wiki/Totem_of_Undying), [emeralds](https://minecraft.fandom.com/wiki/Emerald) and [many other gifts](https://minecraft.fandom.com/wiki/Hero_of_the_Village#Gifts).
 
 > **Note** check out [Farm everything document](http://bit.ly/FarmEverything) by [Rays Works](https://www.youtube.com/c/RaysWorks).
