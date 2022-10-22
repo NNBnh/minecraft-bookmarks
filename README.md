@@ -34,13 +34,11 @@
 - [**Creeping Ivy**](https://www.planetminecraft.com/texture-pack/creeping-ivy) [=](https://www.planetminecraft.com/member/chesto_ "Chesto_") Make vine look bushy.
 - [**Jaden's Camouflage Creepers**](https://www.planetminecraft.com/texture-pack/jaden-s-camouflage-creepers-optifine-required) [=](https://www.planetminecraft.com/member/jadenxgamer "JadenXgamer") This Pack adds 160+ Creeper variants each with unique spawning conditions ranging from biomes, heights, rarity, weather, name tags and even time! to make survival Minecraft a whole lot harder...
 - [**Xali's Enchanted Books**](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books) [=](https://www.planetminecraft.com/member/xalixilax "Xalixilax") Make every enchanted books look distinguishable.
-- [**Flower Pots +**](https://www.curseforge.com/minecraft/texture-packs/colourful-pots) [=](https://www.planetminecraft.com/member/wenan_studios "WeNAN Studios") This pack improves flower pots.
 
 ### ⭐ CIT-packs
 
 - [**Fresh CIT**](https://www.curseforge.com/minecraft/texture-packs/fresh-cit) [=](https://www.youtube.com/channel/UCCs_JwXYjjgeRIujTlbswIw "FreshLX") Resource pack which adds decorative item models to the game for you to improve your builds.
 - [**Ghoulcraft**](https://www.ghoulcraft.com) [=](https://www.ghoulcraft.com/about-us "MissGhouls") Ghoulcraft was made to match the popular resource pack "Mizuno's 16 craft" and their wonderful CIT pack.
-- [**Minecraft Dungeons Textures for Minecraft**](https://www.planetminecraft.com/texture-pack/minecraft-dungeons-textures-for-minecraft-java-edition) [=](https://www.planetminecraft.com/member/kai1907 "Kai1907") In this pack you get some really cool textures from Minecraft Dungeons for Minecraft!
 
 <br>
 
@@ -79,16 +77,14 @@
 
 ## 🔧 Mods
 
-> **Note** Just simply use [Prism Launcher](https://prismlauncher.org) then install Fabulously Optimized _(described below)_ inside it.
+> **Note** For the best Minecraft experience, just simply use [Prism Launcher](https://prismlauncher.org) then install Fabulously Optimized _(described below)_ from [Modrinth](https://modrinth.com) when create new instance.
 
 - [**Fabulously Optimized**](https://modrinth.com/modpack/1KVo5zza) [=](https://github.com/Fabulously-Optimized "Fabulously Optimized's Github page") A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
 - [**Distant Horizons**](https://modrinth.com/mod/uCdwusMi) [=](https://github.com/jeseibel "James Seibel's Github page") See farther without turning your game into a slide show.
 - [**Inspecio**](https://modrinth.com/mod/a93H3mKU) [=](https://github.com/Queerbric/Inspecio/graphs/contributors) A Minecraft mod which adds more tooltips.
-- [**MidnightControls**](https://modrinth.com/mod/bXX9h73M) [=](https://github.com/TeamMidnightDust/MidnightControls/graphs/contributors) Pick and download Vanilla Tweaks resource packs directly from your Minecraft client!
 - [**Litematica**](https://github.com/maruohon/litematica) [=](https://github.com/maruohon "Matti Ruohonen's Github page") Litematica is a client-side schematic mod for Minecraft, with also lots of extra functionality especially for creative mode (such as schematic pasting, area cloning, moving, filling, deletion).
 - [**WorldEdit**](https://github.com/EngineHub/WorldEdit) [=](https://enginehub.org "EngineHub's webside") A Minecraft map editor... that runs in-game.
 - [**ReplayMod**](https://www.replaymod.com) [=](https://www.youtube.com/user/CrushedPixel "CrushedPixel's Youtube channel") Replay Mod allows you to record, replay and share your gaming experience. It's easy to use, but an incredibly powerful tool.
-- [**Quick Shulker**](https://www.curseforge.com/minecraft/mc-mods/quick-shulker) [=](https://github.com/kyrptonaught "Kyrptonaught's Github page") Quick Shulker allows you to quickly open Shulker Boxes(and Ender Chests and Crafting Tables(as of 1.1.13)) with the press of a button without placing them down.
 
 <br><br>
 
